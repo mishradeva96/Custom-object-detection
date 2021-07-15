@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>atom_raceline_fluor_yellow_1_6_large.jpg</filename>
+	<path>F:\helmet\train\atom_raceline_fluor_yellow_1_6_large.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>22</ymin>
+			<xmax>458</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>
